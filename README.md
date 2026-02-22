@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&pause=800&color=00C4FF&center=true&width=650&lines=%F0%9F%91%8B+Hi%2C+I'm+Tanisha+Das!;%F0%9F%9A%80+Frontend+Learner+%7C+C+Programmer" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&pause=800&color=FF4FD8&center=true&width=650&lines=%F0%9F%91%8B+Hi%2C+I'm+Tanisha+Das!;%F0%9F%9A%80+Frontend+Learner+%7C+C+Programmer" alt="Typing SVG">
   </a>
 </h1>
 
@@ -9,29 +9,29 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/TanishaDas07">
-    <img src="https://img.shields.io/github/followers/TanishaDas07?label=Follow&style=flat-square&logo=github&logoColor=white&color=181717" />
+  <a href="https://github.com/Tanisha906">
+    <img src="https://img.shields.io/github/followers/Tanisha906?label=Follow&style=flat-square&logo=github&logoColor=white&color=181717" />
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/tanisha-das-940653370">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:tanidas.d001@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Developer at work" />
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300" alt="Female Developer at work" />
 </p>
 
 ---
 
 ## 🌟 About Me
 
-I'm **Tanisha Das**, a passionate learner exploring **Web Development** and **C Programming**. I enjoy creating clean and simple web designs using **HTML & CSS** and strengthening my programming logic using **C**.
+I'm **Tanisha Das**, a passionate learner exploring **Web Development** and **C Programming**. I enjoy creating clean, modern web designs using **HTML & CSS** and strengthening my problem-solving and logic-building skills using **C**.
 
 - 🌱 Currently learning **HTML, CSS & C**
-- 💻 Practicing frontend layouts & logic building
+- 💻 Practicing frontend layouts, UI design & logic building
 - 🎯 Goal: Become a **skilled frontend developer & programmer**
 
 ---
@@ -61,12 +61,12 @@ I'm **Tanisha Das**, a passionate learner exploring **Web Development** and **C 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <a href="https://github.com/TanishaDas07">
-    <img src="https://github-readme-stats.vercel.app/api?username=TanishaDas07&show_icons=true&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Tanisha906">
+    <img src="https://github-readme-stats.vercel.app/api?username=Tanisha906&show_icons=true&theme=tokyonight&hide_border=true" />
   </a>
 
-  <a href="https://github.com/TanishaDas07">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanishaDas07&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Tanisha906">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanisha906&layout=compact&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -74,9 +74,9 @@ I'm **Tanisha Das**, a passionate learner exploring **Web Development** and **C 
 
 ## 📫 Connect With Me
 
-📧 **Email**:tanidas.d001@gmail.com  
-💼 **LinkedIn**: www.linkedin.com/in/tanisha-das-940653370 
-🌐 **GitHub**: https://github.com/Tanisha906
+📧 **Email**: tanidas.d001@gmail.com  
+💼 **LinkedIn**: https://www.linkedin.com/in/tanisha-das-940653370  
+🌐 **GitHub**: https://github.com/Tanisha906  
 
 <p align="center">
   <em>Learning every day & building step by step 🚀</em>
