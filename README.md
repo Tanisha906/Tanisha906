@@ -74,9 +74,9 @@ I'm **Tanisha Das**, a passionate learner exploring **Web Development** and **C 
 
 ## 📫 Connect With Me
 
-📧 **Email**: yourmail@gmail.com  
+📧 **Email**:tanidas.d001@gmail.com  
 💼 **LinkedIn**: Your LinkedIn Profile  
-🌐 **GitHub**: https://github.com/TanishaDas07  
+🌐 **GitHub**: https://github.com/Tanisha906
 
 <p align="center">
   <em>Learning every day & building step by step 🚀</em>
