@@ -61,13 +61,9 @@ I'm **Tanisha Das**, a passionate learner exploring **Web Development** and **C 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <a href="https://github.com/Tanisha906">
-    <img src="https://github-readme-stats.vercel.app/api?username=Tanisha906&show_icons=true&theme=tokyonight&hide_border=true" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanisha906&show_icons=true&theme=tokyonight&hide_border=true" />
 
-  <a href="https://github.com/Tanisha906">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanisha906&layout=compact&theme=tokyonight&hide_border=true" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanisha906&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
